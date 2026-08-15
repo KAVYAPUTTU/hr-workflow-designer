@@ -358,8 +358,8 @@ npm -v
 ## 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <PROJECT_FOLDER>
+git clone <https://github.com/KAVYAPUTTU/hr-workflow-designer/blob/main/README%20(1).md>
+cd <HRcanvas>
 ```
 
 ---
@@ -579,6 +579,7 @@ The following functionality has been implemented:
 <!-- Paste your screenshot here -->
 
 ![Validation](./screenshots/validation.png)
+![Validationwrong](./screenshots/validationwrong.png)
 
 ---
 
