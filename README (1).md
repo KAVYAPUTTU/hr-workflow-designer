@@ -358,7 +358,7 @@ npm -v
 ## 1. Clone the repository
 
 ```bash
-git clone <https://github.com/KAVYAPUTTU/hr-workflow-designer/blob/main/README%20(1).md>
+git clone <https://github.com/KAVYAPUTTU/hr-workflow-designer>
 cd <HRcanvas>
 ```
 
